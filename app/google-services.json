@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511444764478",
+    "project_id": "wak-tani",
+    "storage_bucket": "wak-tani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511444764478:android:b34c043362364940f2ce6f",
+        "android_client_info": {
+          "package_name": "com.alfanshter.waktani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511444764478-jdebmudk0j763ddilcso6fjm4qs04f45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alfanshter.waktani",
+            "certificate_hash": "c35641fef23ad1ba6123c6ae36259777de9e6e8d"
+          }
+        },
+        {
+          "client_id": "511444764478-6nh41jf5f3t1gps60vles8j7co11mapo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsGUPcQEsYgwDtDdFLSbJYeIUW7Swhpy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511444764478-6nh41jf5f3t1gps60vles8j7co11mapo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
